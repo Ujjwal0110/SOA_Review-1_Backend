@@ -1,0 +1,4 @@
+eureka:
+  instance:
+    prefer-ip-address: false
+    hostname: ${HOSTNAME:appointment-service}

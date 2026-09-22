@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://postgres:5432/${DB_NAME:Hospital_new}
+    username: ${DB_USERNAME:postgres}
+    password: ${DB_PASSWORD:Abhi$1234}
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka-server:8761/eureka/

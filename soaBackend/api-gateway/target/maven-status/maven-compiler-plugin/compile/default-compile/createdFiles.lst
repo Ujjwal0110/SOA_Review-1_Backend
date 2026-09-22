@@ -1,0 +1,5 @@
+com\apexcare\gateway\filter\JwtAuthGatewayFilterFactory$Config.class
+com\apexcare\gateway\filter\LoggingGlobalFilter.class
+com\apexcare\gateway\config\CorsConfig.class
+com\apexcare\gateway\filter\JwtAuthGatewayFilterFactory.class
+com\apexcare\gateway\ApiGatewayApplication.class
